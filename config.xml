@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ss.wishlistbanner" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ss.wishlistbanner" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>WishList</name>
     <description>
         Create Simple Wish list app.
     </description>
     <author email="software.services.comp@gmail.com" href="">
-        Apache Cordova Team
+        Software Services Team
     </author>
     <icon src="www/icon.png"/>
     <content src="index.html" />
